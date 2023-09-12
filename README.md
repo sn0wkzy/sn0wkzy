@@ -1,4 +1,6 @@
-aqui você encontrará meus mais diversos projetos que faço no meu tempo livre, isso é minha paixão!
+#### Hi there 👋
+
+Aqui eu disponibilizo algum dos meus projetos, programação é minha paixão.
 
  <div>
   <a href="https://github.com/merelysnow">
